@@ -82,7 +82,7 @@ export default function Index() {
               <Icon name="MessageCircle" size={24} className="text-white" />
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-violet-600 via-pink-600 to-orange-500 bg-clip-text text-transparent">
-              Messenger
+              Monov
             </h1>
           </div>
           
